@@ -2,4 +2,5 @@ Weather Station Points
 --->"NLDAS_ID" fieldname What about Gridmet or weather station data
 --->HUC/County name will not be unique if running at the cell level
 --->Is elevation needed if not running RefET module? Where do you get it for gridded data?
+--->Originally I pulled nldas grid from Perseus. There are updated shapefiles w/ elevation in the datarepository/GIS-DATA\Shapefiles
 
